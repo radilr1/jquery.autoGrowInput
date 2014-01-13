@@ -1,7 +1,7 @@
 {
   "name": "jquery.autoGrowInput",
   "description": "Automatically adjust input:text width based on user input.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "jquery": ">=1.7"
   },
