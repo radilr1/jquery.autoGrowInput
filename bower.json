@@ -1,0 +1,23 @@
+{
+    name: "jquery.autoGrowInput",
+    description: "Automatically adjust input:text width based on user input.",
+    version: "0.0.1",
+    dependencies: {
+        jquery: ">=1.7"
+    },
+    keywords: [
+        "form",
+        "input",
+        "width",
+        "jQuery"
+    ],
+    authors: [
+        {
+            name: "James",
+            url: "http://james.padolsey.com/",
+            email: "my forename at my surname dot net"
+        }
+    ],
+    licenses: [],
+    main: "jquery.autoGrowInput.js"
+}
